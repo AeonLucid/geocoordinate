@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("https://ghuntley.com/")]
 [assembly: AssemblyProduct("GeoCoordinate")]
-[assembly: AssemblyCopyright("Copyright © Geoffrey Huntley <ghuntley@ghuntley.com> 2016")]
+[assembly: AssemblyCopyright("Copyright © Geoffrey Huntley <ghuntley@ghuntley.com> 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("en")]

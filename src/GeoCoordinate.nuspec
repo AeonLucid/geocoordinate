@@ -12,14 +12,14 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>@description@</description>
     <releaseNotes>@releaseNotes@</releaseNotes>
-    <copyright>Copyright Geoffrey Huntley 2016</copyright>
+    <copyright>Copyright Geoffrey Huntley 2017</copyright>
     <tags>GeoCoordinate GeoCoordinatePortable system.device.location.geocoordinate</tags>
     <dependencies>
       <group targetFramework="portable-win81+wpa81">
       </group>
     </dependencies>
     <frameworkAssemblies>
-      <frameworkAssembly assemblyName="System" targetFramework="net45" />
+      <frameworkAssembly assemblyName="System" targetFramework="net462" />
     </frameworkAssemblies>
   </metadata>
 </package>

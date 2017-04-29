@@ -1,5 +1,4 @@
 ﻿using System;
-//using System.Device.Location;
 using GeoCoordinatePortable;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

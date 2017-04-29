@@ -12,9 +12,7 @@ namespace GeoCoordinatePortableTests.Assertations
             }
             catch (Exception ex)
             {
-                var exOfT = ex as T;
-
-                if (exOfT != null)
+                if (ex is T exOfT)
                     return exOfT;
 
                 throw;
